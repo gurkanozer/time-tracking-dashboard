@@ -212,32 +212,32 @@ main {
 
 .card-work {
   background-color: #ff8c66;
-  background-image: url("/images/icon-work.svg");
+  background-image: url("../images/icon-work.svg");
 }
 
 .card-play {
   background-color: #56c2e6;
-  background-image: url("/images/icon-play.svg");
+  background-image: url("../images/icon-play.svg");
 }
 
 .card-study {
   background-color: #ff5c7c;
-  background-image: url("/images/icon-study.svg");
+  background-image: url("../images/icon-study.svg");
 }
 
 .card-exercise {
   background-color: #4acf81;
-  background-image: url("/images/icon-exercise.svg");
+  background-image: url("../images/icon-exercise.svg");
 }
 
 .card-social {
   background-color: #7536d3;
-  background-image: url("/images/icon-social.svg");
+  background-image: url("../images/icon-social.svg");
 }
 
 .card-self-care {
   background-color: #f1c65b;
-  background-image: url("/images/icon-self-care.svg");
+  background-image: url("../images/icon-self-care.svg");
 }
 
 .btn {
