@@ -156,7 +156,8 @@ main {
 }
 
 .cards .card:hover .card__body {
-  opacity: 0.95;
+  -webkit-filter: brightness(1.5);
+          filter: brightness(1.5);
 }
 
 .cards .card__btn img {
