@@ -26,7 +26,7 @@ const setHtml = (selectedItem)=>{
       <div class="card__body">
       <div class="card__header">
         <span class="title">${obj['title']}</span>
-        <button class="btn card__btn"><img src="/images/icon-ellipsis.svg" alt=""></button>
+        <button class="btn card__btn"><img src="./images/icon-ellipsis.svg" alt=""></button>
       </div>
       <div class="card__content">
         <h4>${obj['timeframes'][selectedItem]['current']}hrs</h4>
