@@ -2,7 +2,7 @@ const menuItems = document.querySelectorAll('.menu-item');
 const cards = document.querySelector('.cards');
 const data = [];
 const getData = async () => {
-  await fetch('/data.json')
+  await fetch('./data.json')
   .then(res =>res.json())
   .then(
     res =>{
